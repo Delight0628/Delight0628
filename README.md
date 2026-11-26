@@ -1,6 +1,6 @@
-### Hi, I'm Gaoxing (高国兴)
+### Hi, I'm Delight
 
-AI Agent & Skill Engineer · 2 年+ AI 应用开发经验 · 国际注册工程师（IET-CEng）· 澳门理工大学计算机硕士（多智能体强化学习方向）
+AI Native Developer · 2 年+ AI 应用开发经验 · 国际注册工程师（IET-CEng）· 澳门理工大学计算机硕士（多智能体强化学习方向）
 
 在顺丰同城做 AI 前沿部署（FDE），把业务 SOP 变成可调用、可评测、可复用的 Agent Skill：LangGraph 多 Agent 编排、MCP 工具封装、Skill 契约设计与自动评测。
 
