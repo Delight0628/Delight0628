@@ -2,6 +2,8 @@
 
 AI Native Developer · 2 年+ AI 应用开发经验 · 国际注册工程师（IET-CEng）· 澳门理工大学计算机硕士（多智能体强化学习方向）
 
+在顺丰同城做 AI 前沿部署（FDE），把业务 SOP 变成可调用、可评测、可复用的 Agent Skill：LangGraph 多 Agent 编排、MCP 工具封装、Skill 契约设计与自动评测。
+
 **Focus Areas**
 
 - **Agent Orchestration:** LangGraph 项目级 Supervisor Graph + 文档级 Subgraph，Agent 间结构化 Handoff、工具调用失败短路，checkpoint / interrupt 支持断点续跑与低置信度人工复核
@@ -31,6 +33,12 @@ AI Native Developer · 2 年+ AI 应用开发经验 · 国际注册工程师（I
 | [record-and-replay](https://github.com/Delight0628/record-and-replay) | 把桌面操作录下来转成可复用 Agent Skill 的独立插件，MCP stdio + Agent Skill + CLI + Python API，零依赖 | MCP · CLI |
 | [sftc-rider-dispatch](https://github.com/Delight0628/sftc-rider-dispatch) | 即时配送骑手派单：学习边效用 + 约束二分图匹配 + 滚动重优化，4 城 1,106 单真实订单综合评分 0.625~0.780 | TensorFlow |
 | [MARL_FOR_W_Factory](https://github.com/Delight0628/MARL_FOR_W_Factory) | 基于 MAPPO 的多智能体强化学习工厂调度（硕士论文），扰动场景下总延期较 FIFO 降低约 30% | PettingZoo · SimPy |
+
+**Honors & Roles**
+
+- **小米 MiMo:** 百万亿 Token 创造者激励计划 Max 获选 · MiMo Desktop 内测用户
+- **顺丰技术学院:** 丰芒星 · AI 办公训练营高阶认证 · 领慧智造营高阶领慧智造者
+- **Datawhale:** 高校行 AI Agent 讲师
 
 **Links**
 
