@@ -2,8 +2,6 @@
 
 AI Native Developer · 2 年+ AI 应用开发经验 · 国际注册工程师（IET-CEng）· 澳门理工大学计算机硕士（多智能体强化学习方向）
 
-在顺丰同城做 AI 前沿部署（FDE），把业务 SOP 变成可调用、可评测、可复用的 Agent Skill：LangGraph 多 Agent 编排、MCP 工具封装、Skill 契约设计与自动评测。
-
 **Focus Areas**
 
 - **Agent Orchestration:** LangGraph 项目级 Supervisor Graph + 文档级 Subgraph，Agent 间结构化 Handoff、工具调用失败短路，checkpoint / interrupt 支持断点续跑与低置信度人工复核
